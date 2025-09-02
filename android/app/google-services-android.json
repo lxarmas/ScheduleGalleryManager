@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "104924002747",
+    "project_id": "schedulegallerymanager",
+    "storage_bucket": "schedulegallerymanager.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104924002747:android:68840b849eb9a206dd6c9e",
+        "android_client_info": {
+          "package_name": "com.alejandroarmas.galleryManager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8hm_KRwLn0G4-hh8DYDSULsa3NAXb6_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
